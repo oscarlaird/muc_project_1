@@ -11,7 +11,7 @@ def vector_magnitude(data):
         data: array of (x, y, z) tuples for a vector
 
     Returns:
-        arra of the magnitude of a vector
+        array of the magnitude of a vector
 
     """
     raise NotImplementedError
@@ -39,7 +39,3 @@ def moving_average(data, window_size):
 
     """
     raise NotImplementedError
-
-
-
-
