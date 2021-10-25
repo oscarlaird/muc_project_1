@@ -1,6 +1,8 @@
-# muc-spring-2021-sensor-data
+# Fall 2021 Sensor data activity
 
-Sensor data activity
+You can find the full [Assignment Details here](https://docs.google.com/document/d/1CU3iT1rP5ex-v2wjjk-efq4HqJYnwL9XxzccHbHH7Y8/edit?usp=sharing).
+
+### How to use the code
 
 parser.py - Process the sensor data recorded on your smartphone to return a list of tuples (for x, y, z axis of the sensor data)
 
