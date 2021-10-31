@@ -4,18 +4,29 @@ You can find the full [Assignment Details here](https://docs.google.com/document
 
 ### How to use the code
 
-parser.py - Process the sensor data recorded on your smartphone to return a list of tuples (for x, y, z axis of the sensor data)
+### Option 1 - Jupyter Notebook
 
-constants.py - Placeholder for data folder and data file name
+Launch `jupyter notebook` and open `SensorDataAnalysisActivity.ipynb`. 
 
-util.py - Utility functions for low pass filter
+If you're using the notebook, you won't need to edit any other Python files.
 
-plot_data.py - Visualizes X,Y,Z of the sensor data as a time-series plot
+### Option 2 - Python Files
 
-task2.py - template code for Task 2
+The following files provide functions to help in your code:
 
-task3.py - template code for Task 3
+- parser_data.py - Process the sensor data recorded on your smartphone to return a list of tuples (for x, y, z axis of the sensor data)
 
-task4.py - template code for Task 4
 
-task5.py - template code for Task 5
+- plot_data.py - Visualizes X,Y,Z of the sensor data as a time-series plot
+
+You will need to fill in the following files:
+
+- constants.py - Placeholder for data folder and data file name
+
+- task2.py - template code for Task 2
+
+- util.py - Utility functions for low pass filter
+
+- task3.py - template code for Task 3
+
+- task4.py - template code for Task 4
