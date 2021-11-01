@@ -8,7 +8,7 @@ def clean_data(data):
 
 
     print ("Create new file without garbage data and save it in data folder")
-    file_name_clean = "walking_steps_1_clean.csv"
+    file_name_clean = "walking_steps_clean.csv"
 
 
 
@@ -16,7 +16,7 @@ def clean_data(data):
 
 def main():
     # Get data
-    file_name = "walking_steps_1.csv"  # Change to your file name
+    file_name = "walking_steps.csv"  # Change to your file name
     data = parser_data.get_data(file_name) #data -- time,X,Y,Z
     clean_data(data)
 
