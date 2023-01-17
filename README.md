@@ -1,6 +1,6 @@
 # Fall 2022 Sensor data activity
 
-You can find the full [Assignment Details here](https://docs.google.com/document/d/1HLxpDa5-vegjfHTctvDP99DLC_7NqLMVrlb7nVO8O7A/edit#).
+You can find the full assignment details on Canvas under the assignment GROUP EXERCISE: Sensor Data Anylsis Activity
 
 ### How to use the code
 
